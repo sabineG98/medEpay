@@ -1,0 +1,23 @@
+2015-06-28 11:25:25 [5416] SWTAG: _info_: __SWTAG_LOG_FILE__
+2015-06-28 11:25:25 [5416] SWTAG: _info_: Get privilege info for "Progra~1\swtag.log" returned 0
+2015-06-28 11:25:25 [5416] SWTAG: _info_: Set privilege info for "Progra~1\swtag.log" returned 0
+2015-06-28 11:25:25 [5416] SWTAG: _info_: ==========================================
+2015-06-28 11:25:25 [5416] SWTAG: _info_: Start SWTAGGING productName=Adobe Creative Suite 5 Master Collection; licensingCode=MasterCollection-CS5-Win-GM; locale=MUL; caller=1
+2015-06-28 11:25:25 [5416] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2015-06-28 11:25:25 [5416] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2015-06-28 11:25:25 [5416] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_MasterCollection-CS5-Win-GM-MUL.swidtag file
+2015-06-28 11:25:25 [5416] SWTAG: _info_: End SWTAGGING
+2015-06-28 11:25:25 [5416] SWTAG: _info_: ==========================================
+
+
+2015-06-28 11:25:29 [5416] SWTAG: _info_: Get privilege info for "Progra~1\swtag.log" returned 0
+2015-06-28 11:25:29 [5416] SWTAG: _info_: Set privilege info for "Progra~1\swtag.log" returned 0
+2015-06-28 11:25:29 [5416] SWTAG: _info_: ==========================================
+2015-06-28 11:25:29 [5416] SWTAG: _info_: Start SWTAGGING productName=Adobe Creative Suite 5 Master Collection; licensingCode=MasterCollection-CS5-Win-GM; locale=MUL; caller=1
+2015-06-28 11:25:29 [5416] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2015-06-28 11:25:29 [5416] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2015-06-28 11:25:29 [5416] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_MasterCollection-CS5-Win-GM-MUL.swidtag file
+2015-06-28 11:25:29 [5416] SWTAG: _info_: End SWTAGGING
+2015-06-28 11:25:29 [5416] SWTAG: _info_: ==========================================
+
+

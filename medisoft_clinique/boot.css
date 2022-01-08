@@ -1,0 +1,100 @@
+body{
+    background:url('img/31.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color:#fff;
+}
+.show{
+    background:rgba(0%,50%,75%,0.4) !important;
+    border-bottom: 0px solid #A6E2FF;
+	box-shadow: 0px 0px 5px 0px #000;
+    padding-top: 0;
+    padding-bottom: 0;    
+    height: 40px !important;
+}
+.home-inner{ padding-top: 100px;}
+.card-form{ opacity: 0.8;background-color: transparent !important; }
+.card{ border-radius: 20px; }
+.insu{ background-color: rgba(255,255,255,0.7); padding-top: 20px; border-radius: 20px;}
+.login{ background-color:#FFF !important; opacity:0.8 !important; height:100vh !important;}
+.mob{ background-color: rgba(255,255,255); margin-top: 50px; padding-top: 20px; border-radius: 5px;}
+#overv
+{
+	height:30px;	
+	background-image:url(img/overb.JPG);
+	background-repeat:repeat-x;
+	width:311px;
+	padding: 2px;
+	margin: 5px 5px;
+	box-shadow: outset 0 1px 4px rgba(0,0,0,.2);
+	border-radius: 0px 20px 10px 10px;
+	-webkit-box-shadow: outset 0 4px 5px rgba(0,0,0,.2);
+	-webkit-border-radius: 5px;
+	border-color: #09F;
+	background-color:#D9ECFF;
+	border:0px solid #aaa;
+	opacity:1;
+	box-shadow: 0px 0px 5px #000
+}
+.overv:hover{border:1px;border-color:#09F;}
+.musadiv{background-color:#C2E7FC;border:1px solid #09F;box-shadow:0px 0px 5px 0px #000;border-radius:5px 5px 5px 5px;width:750px;height:600px;top: 25px;}
+#overv2
+{
+	height:40px;
+	position:absolute;
+	background-image:url(img/overb.JPG);
+	background-repeat:repeat-x;
+	left:19px;
+	top:-12px;
+	width:511px;
+	padding: 2px;
+	margin: 1px 0;
+	box-shadow: outset 0 1px 4px rgba(0,0,0,.2);
+	border-radius: 5px 5px 5px 5px;
+	border-color: #09F;
+	background-color:#D9ECFF;
+	border:0px solid #aaa;
+	opacity:1;
+	box-shadow: 0px 0px 20px #000;
+	overflow:hidden;
+	z-index: 1;
+}
+#overv2:hover
+{
+	border:2px solid #00F;
+	height:500px;
+	width:1100px;
+	opacity:0.9;
+	overflow:auto;
+	transition: width 1s;
+	transition: height 1s;	
+}
+.button {border:hidden;display: inline-block;border-radius: 4px;background-color:#069;color: #FFFFFF;text-align: center;font-size: 16px;padding: 7px;width: auto;transition: all 0.5s;
+  cursor: pointer; margin: 2px;}
+.button span {cursor: pointer;display: inline-block;position: relative;transition: 0.5s;}
+.button span:after {content: 'Ok';position: absolute;opacity: 0;top: 0;right: 20px; transition: 0.5s;}
+/* .button:hover span {padding-right: 25px;} */
+.button:hover span:after {opacity: 1;right: 0;}
+input, select{border: 1px solid #069;  height:30px; padding-left:30px;  font-size:16px;}
+
+.buttonlab {border:hidden;display: inline-block;border-radius: 4px;background-color:#069;color: #FFFFFF;text-align: center;font-size: 16px;padding: 7px;width: auto;transition: all 0.5s;
+	cursor: pointer; margin: 2px;}
+.buttonlab span {cursor: pointer;display: inline-block;position: relative;transition: 0.5s;}
+.buttonlab span:after {content: 'LABORATORY';position: absolute;opacity: 0;top: 0;right: -20px; transition: 0.5s;}
+/* .button:hover span {padding-right: 25px;} */
+.buttonlab:hover span:after {opacity: 1;right: 0;}
+
+.buttondist {border:hidden;display: inline-block;border-radius: 4px;background-color:#069;color: #FFFFFF;text-align: center;font-size: 16px;padding: 7px;width: auto;transition: all 0.5s;
+	cursor: pointer; margin: 2px;}
+.buttondist span {cursor: pointer;display: inline-block;position: relative;transition: 0.5s;}
+.buttondist span:after {content: 'POINTAGE DE DISTRIBUTION';position: absolute;opacity: 0;top: 0;right: -20px; transition: 0.5s;}
+/* .button:hover span {padding-right: 25px;} */
+.buttondist:hover span:after {opacity: 1;right: 0;}
+
+.buttonupd {border:hidden;display: inline-block;border-radius: 4px;background-color:#069;color: #FFFFFF;text-align: center;font-size: 16px;padding: 7px;width: auto;transition: all 0.5s;
+	cursor: pointer; margin: 2px;}
+.buttonupd span {cursor: pointer;display: inline-block;position: relative;transition: 0.5s;}
+.buttonupd span:after {content: 'Update';position: absolute;opacity: 0;top: 0;right: -20px; transition: 0.5s;}
+/* .button:hover span {padding-right: 25px;} */
+.buttonupd:hover span:after {opacity: 1;right: 0;}
+
